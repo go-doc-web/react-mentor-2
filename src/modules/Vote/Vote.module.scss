@@ -1,0 +1,19 @@
+.wrapper {
+  display: grid;
+  grid-template-columns: 300px 300px;
+  gap: 30px;
+}
+
+.block {
+  border: 1px solid black;
+}
+
+.block h4 {
+  text-align: center;
+}
+.block div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+}

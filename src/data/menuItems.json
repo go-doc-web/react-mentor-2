@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "text": "Main",
+    "link": "#"
+  },
+  {
+    "id": "2",
+    "text": "Books Page",
+    "link": "#"
+  },
+  {
+    "id": "3",
+    "text": "Contacts",
+    "link": "#"
+  }
+]
